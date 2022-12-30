@@ -1,1 +1,1 @@
-# Super Cool Excel Project
+# Stock Analysis Project
