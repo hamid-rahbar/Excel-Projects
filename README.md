@@ -25,3 +25,27 @@
    - Based on the stock price history
    - For short-term investment opportunities
 ### This Report findings and recommendations are based on Technical Analysis methodology
+
+
+## .
+
+<a href="https://github.com/hamid-rahbar/SP500StockAnalysisExcel/blob/main/GoogleStockAnalysis.png"><img align="left" width="auto" height="auto" src="https://github.com/hamid-rahbar/SP500StockAnalysisExcel/blob/main/GoogleStockAnalysis.png"></a>
+
+.
+## Recommendation:
+- The stock return is normally distributed
+- No outliers in stock price, so the outlier in stock return is not a big deal.
+
+#### Google Stock is a healthy for investment.
+
+
+## .
+
+<a href="https://github.com/hamid-rahbar/SP500StockAnalysisExcel/blob/main/AlignTechnologyStockAnalysis.png"><img align="left" width="auto" height="auto" src="https://github.com/hamid-rahbar/SP500StockAnalysisExcel/blob/main/AlignTechnologyStockAnalysis.png"></a>
+
+.
+## Recommendation:
+- The stock return is normally distributed
+- The are some outliers in stock price.
+
+#### Investing in Align Technology Stock should be done with caution.
